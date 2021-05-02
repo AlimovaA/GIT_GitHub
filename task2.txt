@@ -1,3 +1,0 @@
-Задание *
-1) Отправить http запрос на сервер.
-https://api.quarantine.country/api/v1/regions
