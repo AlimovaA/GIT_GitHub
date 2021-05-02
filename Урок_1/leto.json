@@ -1,0 +1,10 @@
+{
+	"name":"Albina",
+	"surname":"Alimova"
+"family": {"dauther":{"Name":"Milana",
+"Age":3,
+"female":true,
+"toys":["ball", "doll", "bike", true, 4, 3.5, null, 
+"friend": "Artem"}]}
+}
+}
