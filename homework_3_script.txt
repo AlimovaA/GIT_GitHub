@@ -1,3 +1,6 @@
+Создаем скрипт:
+$ nano script1.sh
+
 #!/bin/bash
 
 # 1
@@ -32,3 +35,6 @@ ls -la
 echo 'Переместить любые 2 файла в другую папку'
 mv test_11.txt test_22.txt ../lim
 ls ../lim
+
+Запустить скрипт:
+$ sh script1.sh
